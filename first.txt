@@ -1,5 +1,0 @@
-my first text file
-
-message
-
-and message
